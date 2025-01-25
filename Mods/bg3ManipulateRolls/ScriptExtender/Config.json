@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 15,
+    "ModTable": "bg3ManipulateRolls",
+    "FeatureFlags": ["Lua"]
+}
