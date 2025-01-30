@@ -1,6 +1,6 @@
 ## Baldur's Gate 3 Mod - Manipulate Rolls
 
-A mod to try and inject manually (or externally) determined D20 rolls in Baldur's Gate 3 Dialog D20 roll menus
+A mod to manually (or externally) determined D20 rolls in Baldur's Gate 3 Dialog D20 roll menus
 
 Modes:
 - You can use ScriptExtender debug console commands to manually set the value of the next die roll `!setnextd20 number`
@@ -13,7 +13,7 @@ There is a Companion app [here](https://github.com/adowdy/goDice-writeToFile) --
 
 - Mod is WORK IN PROGRESS (i make no promises at the moment!). There are some bugs (sometimes we see that we cannot influence success/fail determination even after setting the die rolls into the game engine memory)
 
-- based on Script Extender
+- based on Script Extender (dependency needed at runtime for this mod)
 https://github.com/Norbyte/bg3se
 
 - Utilizes some Osiris Events notated here

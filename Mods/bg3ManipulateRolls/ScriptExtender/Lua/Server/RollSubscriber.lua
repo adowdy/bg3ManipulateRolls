@@ -1,5 +1,8 @@
 -- RollSubscriber: code for intercepting roll events in the game (only roll events that pop up a )
 
+
+-- TODO NOTES here https://gist.github.com/adowdy/1e7581c3cf3435d0dd235cfaf30c57df
+
 -- filenames for the latest rolled value and previous (used for advantage/disadvantage)
 -- relative path from %localappdata%\Larian Studios\Baldur's Gate 3\Script Extender\
 local rollValPathLatest = "manualD20RollValueLatest"
