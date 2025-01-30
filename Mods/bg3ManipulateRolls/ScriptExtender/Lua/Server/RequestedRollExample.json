@@ -1,0 +1,248 @@
+{
+    "RequestedRoll" :
+    {
+            "AC" : 20,
+            "Ability" : "Sentinel",
+            "AdditionalValue" : 0,
+            "AdvantageType" : 1,
+            "DiceAdditionalValue" : 5,
+            "DiscardedDiceTotal" : 1,
+            "Entity2Uuid" : "1203d6a0-2cd5-4727-3fec-754b2c271b83",
+            "EntityUuid" : "1203d6a0-2cd5-4727-3fec-754b2c271b83",
+            "Finished" : false,
+            "FixedRollBonuses" : [],
+            "Metadata" :
+            {
+                    "AbilityBoosts" :
+                    {
+                            "Charisma" : 3
+                    },
+                    "AutoAbilityCheckFail" : false,
+                    "AutoAbilitySavingThrowFail" : false,
+                    "AutoSkillCheckFail" : false,
+                    "BaseUnarmedDamage" : 0,
+                    "FixedRollBonuses" : [],
+                    "HasCustomMetadata" : false,
+                    "HighGroundBonus" : 0,
+                    "IsCritical" : false,
+                    "LowGroundPenalty" : 0,
+                    "ProficiencyBonus" : 2,
+                    "ResolvedRollBonuses" : [],
+                    "RollBonus" : 0,
+                    "SkillBonuses" : {}
+            },
+            "NaturalRoll" : 9,
+            "PassiveRollDelay" : 0.0,
+            "PassiveRollDelay2" : 0.0,
+            "ResolvedRollBonuses" : [],
+            "Result" :
+            {
+                    "Critical" : "None",
+                    "CriticalThreshold" : 20,
+                    "DiscardedDiceTotal" : 1,
+                    "NaturalRoll" : 9,
+                    "RollsCount" : [],
+                    "Total" : 14
+            },
+            "Roll" :
+            {
+                    "Advantage" : true,
+                    "Disadvantage" : false,
+                    "RerollConditions" : [],
+                    "Roll" :
+                    {
+                            "AmountOfDices" : 1,
+                            "DiceAdditionalValue" : 5,
+                            "DiceNegative" : false,
+                            "DiceValue" : "D20"
+                    },
+                    "RollType" : "SkillCheck"
+            },
+            "RollComponentType" : 0,
+            "RollContext" : 0,
+            "RollEntity" : "Entity (0200000900001c81)",
+            "RollType" : 8,
+            "RollUuid" : "33fe0120-ffa9-728f-25f9-ad940175de94",
+            "Skill" : "Persuasion",
+            "SpellCheck" : 0,
+            "StatsExpression" : "PersuasionAdvantage",
+            "field_1B0" : "",
+            "field_1CC" : 0,
+            "field_20" : "Entity (0200000300006ff1)",
+            "field_4E" : 0,
+            "field_4F" : 0,
+            "field_55" : 1,
+            "field_58" : 0,
+            "field_60" : "Entity (0200000300006ff1)",
+            "field_88" : 0,
+            "field_89" : 0,
+            "field_8A" : 0,
+            "field_90" : [],
+            "field_A2" : 0
+    },
+    "RollModifiers" :
+    {
+            "ConsumableModifiers" : [],
+            "DynamicModifiers" : [],
+            "DynamicModifiers2" : [],
+            "DynamicModifiers3" : [],
+            "ItemSpellModifiers" : [],
+            "SpellModifiers" : [],
+            "StaticModifiers" :
+            [
+                    {
+                            "Modifier" :
+                            {
+                                    "AbilityModifier" : 17,
+                                    "AbilityModifier2" : 17,
+                                    "Advantage" : 0,
+                                    "AdvantageType" : 0,
+                                    "AmountOfDices" : 0,
+                                    "BoostType" : "Ability",
+                                    "DiceValue" : "Default",
+                                    "Source" :
+                                    {
+                                            "Source" : "",
+                                            "SourceType" : 0,
+                                            "StackId" : "",
+                                            "StackPriority" : 0,
+                                            "field_10" : null,
+                                            "field_18" : -1,
+                                            "field_20" : 0,
+                                            "field_28" : null,
+                                            "field_30" : null
+                                    },
+                                    "SuccessFlags" : 0,
+                                    "TargetType" : 1,
+                                    "field_28" : 0,
+                                    "field_2C" :
+                                    {
+                                            "ArgumentString" :
+                                            {
+                                                    "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                                                    "Version" : 0
+                                            },
+                                            "Get" : "function: 00007FF975350790",
+                                            "Handle" :
+                                            {
+                                                    "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                                                    "Version" : 0
+                                            }
+                                    },
+                                    "field_40" : 0,
+                                    "field_48" : 0,
+                                    "field_F" : 1
+                            },
+                            "ModifierGuid" : "1e19ed47-05e9-27c2-06c4-8bf4e10e87da",
+                            "field_10" : 0,
+                            "field_88" : 0,
+                            "field_8C" : 0
+                    },
+                    {
+                            "Modifier" :
+                            {
+                                    "AbilityModifier" : 0,
+                                    "AbilityModifier2" : 0,
+                                    "Advantage" : 0,
+                                    "AdvantageType" : 1,
+                                    "AmountOfDices" : 0,
+                                    "BoostType" : "Advantage",
+                                    "DiceValue" : "Default",
+                                    "Source" :
+                                    {
+                                            "Source" : "",
+                                            "SourceType" : 0,
+                                            "StackId" : "",
+                                            "StackPriority" : 0,
+                                            "field_10" : null,
+                                            "field_18" : -1,
+                                            "field_20" : 0,
+                                            "field_28" : null,
+                                            "field_30" : null
+                                    },
+                                    "SuccessFlags" : 0,
+                                    "TargetType" : 1,
+                                    "field_28" : 3,
+                                    "field_2C" :
+                                    {
+                                            "ArgumentString" :
+                                            {
+                                                    "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                                                    "Version" : 0
+                                            },
+                                            "Get" : "function: 00007FF975350790",
+                                            "Handle" :
+                                            {
+                                                    "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                                                    "Version" : 0
+                                            }
+                                    },
+                                    "field_40" : 0,
+                                    "field_48" : 0,
+                                    "field_F" : 1
+                            },
+                            "ModifierGuid" : "4f73ad63-1cea-1db1-256d-6923f1b1e5a4",
+                            "field_10" : 0,
+                            "field_88" : 0,
+                            "field_8C" : 0
+                    },
+                    {
+                            "Modifier" :
+                            {
+                                    "AbilityModifier" : 2,
+                                    "AbilityModifier2" : 2,
+                                    "Advantage" : 0,
+                                    "AdvantageType" : 0,
+                                    "AmountOfDices" : 0,
+                                    "BoostType" : "ProficiencyBonus",
+                                    "DiceValue" : "Default",
+                                    "Source" :
+                                    {
+                                            "Source" : "",
+                                            "SourceType" : 6,
+                                            "StackId" : "",
+                                            "StackPriority" : 0,
+                                            "field_10" : "Entity (0200000300007d86)",
+                                            "field_18" : -1,
+                                            "field_20" : 0,
+                                            "field_28" : null,
+                                            "field_30" : null
+                                    },
+                                    "SuccessFlags" : 0,
+                                    "TargetType" : 1,
+                                    "field_28" : 0,
+                                    "field_2C" :
+                                    {
+                                            "ArgumentString" :
+                                            {
+                                                    "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                                                    "Version" : 0
+                                            },
+                                            "Get" : "function: 00007FF975350790",
+                                            "Handle" :
+                                            {
+                                                    "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                                                    "Version" : 0
+                                            }
+                                    },
+                                    "field_40" : 0,
+                                    "field_48" : 0,
+                                    "field_F" : 1
+                            },
+                            "ModifierGuid" : "b6907322-6e82-e493-b7a1-8a4aa2544010",
+                            "field_10" : 0,
+                            "field_88" : 0,
+                            "field_8C" : 0
+                    }
+            ],
+            "ToggledPassiveModifiers" : [],
+            "field_0" : "Entity (0200000900001c81)",
+            "field_18" : 6,
+            "field_19" : 3
+    },
+    "Savegame" : {},
+    "ServerReplicationDependency" :
+    {
+            "Dependency" : "Entity (0200000300006ff1)"
+    }
+}
